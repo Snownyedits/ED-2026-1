@@ -1,0 +1,17 @@
+Questão 01.
+Temos uma pilha A definida por: Pilha A = 0,2,4,6,8,10. E temos que fazer a seguinte configuração em uma pilha B vazia.
+Pilha A = {0,2,4,6,8,10}
+Pilha B = {}
+Desempilha em a e Empilha em B o elemento desempilhado de A.
+Pilha A = {0,2,4,6,8}
+Pilha B = {10}
+Empilha 9 em b.
+Pilha B = {10,9}
+Desempilha de A e coloca em b
+Pilha A = {0,2,4,6}
+Pilha B = {10,9,8}
+Empilha 7 em A
+Pilha A = {0,2,4,6,7}
+Desempilha de B e empilha em a
+Pilha A = {0,2,4,6,7,8}
+Pilha B = {10,9}
