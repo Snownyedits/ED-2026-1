@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Dark* Italic theme",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "Dank Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [88,128],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "workbench.activityBar.location": "default",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.statusBar.visible": false,
+    "apc.font.family": "Cutesy",
+    "editor.cursorBlinking": "expand",
+    "vscode_custom_css.imports": [
+        "file:///home/claudia/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    
+    
+
+
+}
